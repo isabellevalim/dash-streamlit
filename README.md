@@ -9,7 +9,7 @@ Ao final, faremos o deploy. Assim, todas as pessoas conseguirão acessar a aplic
 
 Para acessar o dashboard: https://dash-app-machineisa.streamlit.app/
 
-## Como executar
+## Como executar o código na sua máquina
 
 Assista as aulas do módulo bônus de Git para saber como clonar esse projeto para a sua máquina local
 
@@ -21,3 +21,7 @@ Dentro do ambiente virtual venv, instale os pacotes necessários: streamlit, req
 
 Para executar a aplicação web, o comando é: streamlit run app.py
 
+## Obtendo os dados a partir de uma API pública
+
+A url de chamada da API é: https://labdados.com/produtos
+A API fornece os dados filtrados por região e ano pela seguinte url: https://labdados.com/produtos?regiao=norte&ano=2022
