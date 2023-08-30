@@ -24,4 +24,5 @@ Para executar a aplicação web, o comando é: streamlit run app.py
 ## Obtendo os dados a partir de uma API pública
 
 A url de chamada da API é: https://labdados.com/produtos
+
 A API fornece os dados filtrados por região e ano pela seguinte url: https://labdados.com/produtos?regiao=norte&ano=2022
