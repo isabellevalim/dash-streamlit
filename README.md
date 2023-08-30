@@ -7,6 +7,8 @@ Primeiro, é necessário fazer a configuração do ambiente para que você possa
 Depois, vamos fazer a leitura dos dados a partir da consulta à uma API. Na sequência, vamos construir os gráficos e os inserir no dashboard.
 Ao final, faremos o deploy. Assim, todas as pessoas conseguirão acessar a aplicação a partir de um link.
 
+Para acessar o dashboard: https://dash-app-machineisa.streamlit.app/
+
 ## Como executar
 
 Assista as aulas do módulo bônus de Git para saber como clonar esse projeto para a sua máquina local
